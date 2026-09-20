@@ -140,20 +140,12 @@ out.append('</div>')
 out.append('<div class="note">%s</div>' % D["channels_note"])
 
 # Subscriptions
-out.append('<h2>Subscriptions <span class="src">Piano Analytics + Subscription Report</span></h2>')
-out.append('<table><thead><tr><th>Metric</th>'
-           '<th>Prior month<small>Jul 2026</small></th><th>Same mo prior yr<small>Jul 2025</small></th><th>Mo YoY</th>'
-           '<th>YTD<small>Jan&ndash;Jul 2026</small></th><th>Prior YTD<small>Jan&ndash;Jul 2025</small></th><th>YTD YoY</th></tr></thead><tbody>')
+out.append('<h2>Subscriptions <span class="src">Piano Subscription Report (by-term)</span></h2>')
+out.append('<table><thead><tr><th>Metric</th><th>As of %s</th><th>Detail</th></tr></thead><tbody>' % M["subs_asof"])
 for r in D["subs_rows"]:
-    if r.get("sub"):
-        out.append('<tr class="sub-row"><td class="metric" style="font-weight:500">%s</td><td>%s</td><td colspan="5" style="color:#6b7280;font-style:italic;text-align:left">%s</td></tr>'
-                   % (r["label"], r["c0"], r.get("note","")))
-    elif "note" in r and "c3" not in r:
-        out.append('<tr><td class="metric">%s</td><td>%s</td><td>%s</td><td class="delta %s">%s</td><td colspan="3" style="color:#8a8f98;font-style:italic;text-align:left">%s</td></tr>'
-                   % (r["label"], r["c0"], r["c1"], r["d1"]["d"], r["d1"]["t"], r["note"]))
-    else:
-        out.append('<tr><td class="metric">%s</td><td>%s</td><td>%s</td><td class="delta %s">%s</td><td>%s</td><td>%s</td><td class="delta %s">%s</td></tr>'
-                   % (r["label"], r["c0"], r["c1"], r["d1"]["d"], r["d1"]["t"], r["c3"], r["c4"], r["d5"]["d"], r["d5"]["t"]))
+    cls = ' class="sub-row"' if r.get("sub") else ''
+    lst = ' style="font-weight:500"' if r.get("sub") else ''
+    out.append('<tr%s><td class="metric"%s>%s</td><td>%s</td><td style="color:#6b7280;font-style:italic;text-align:left">%s</td></tr>' % (cls, lst, r["label"], r["val"], r.get("detail","")))
 out.append('</tbody></table>')
 out.append('<div class="note">%s</div>' % D["subs_note"])
 

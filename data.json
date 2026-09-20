@@ -1,522 +1,477 @@
 {
- "meta": {
-  "generated": "Sun Sep 20, 2026, 1:46 PM ET",
-  "audience_stale": false,
-  "audience_week": "Sep 7–13, 2026",
-  "audience_week_py": "Sep 8–14, 2025",
-  "audience_ytd": "Jan 1–Sep 13, 2026",
-  "audience_ytd_py": "Jan 1–Sep 14, 2025",
-  "audience_src": "Google Analytics 4 &middot; wk of Sep 7–13",
-  "subs_asof": "Aug 20, 2026",
-  "audience_refreshed": "Sep 14, 2026",
-  "fin_report_label": "August 2026",
-  "fin_mo": "Aug 2026",
-  "fin_mo_py": "Aug 2025",
-  "fin_mo_short": "Aug",
-  "financials_source": "08.2026 LNP Financials 9.16.26.pdf"
- },
- "fin_consolidated": [
-  {
-   "group": "Operating (before philanthropy)"
+  "meta": {
+    "generated": "Sun Sep 20, 2026, 2:15 PM ET",
+    "audience_stale": false,
+    "audience_week": "Sep 7–13, 2026",
+    "audience_week_py": "Sep 8–14, 2025",
+    "audience_ytd": "Jan 1–Sep 13, 2026",
+    "audience_ytd_py": "Jan 1–Sep 14, 2025",
+    "audience_src": "Google Analytics 4 &middot; wk of Sep 7–13",
+    "subs_asof": "Aug 31, 2026",
+    "audience_refreshed": "Sep 14, 2026",
+    "fin_report_label": "August 2026",
+    "fin_mo": "Aug 2026",
+    "fin_mo_py": "Aug 2025",
+    "fin_mo_short": "Aug",
+    "financials_source": "08.2026 LNP Financials 9.16.26.pdf"
   },
-  {
-   "label": "Total operating revenue",
-   "cells": [
-    "$1,760,073",
-    "$1,779,559",
-    "$1,935,528",
-    "$12,805,405",
-    "$13,410,274",
-    "$14,287,135"
-   ]
-  },
-  {
-   "label": "Total expenses",
-   "cells": [
-    "$1,866,726",
-    "$1,778,756",
-    "$2,035,963",
-    "$14,162,085",
-    "$15,490,754",
-    "$16,914,102"
-   ]
-  },
-  {
-   "label": "EBITDA <span style='font-weight:400;color:#888'>(ex-grants)</span>",
-   "cells": [
-    "−$106,653",
-    "$803",
-    "−$100,435",
-    "−$1,356,680",
-    "−$2,080,480",
-    "−$2,626,967"
-   ],
-   "neg": [
-    0,
-    2,
-    3,
-    4,
-    5
-   ]
-  },
-  {
-   "group": "With philanthropy"
-  },
-  {
-   "label": "Philanthropy (grants)",
-   "cells": [
-    "$55,589",
-    "&mdash;",
-    "&mdash;",
-    "$2,463,049",
-    "$2,500,600",
-    "&mdash;"
-   ],
-   "flat": [
-    1,
-    2,
-    5
-   ]
-  },
-  {
-   "label": "Adjusted net income*",
-   "cells": [
-    "−$51,064",
-    "$803",
-    "&mdash;",
-    "$1,106,369",
-    "$420,120",
-    "&mdash;"
-   ],
-   "neg": [
-    0
-   ],
-   "pos": [
-    3,
-    4
-   ],
-   "flat": [
-    2,
-    5
-   ]
-  }
- ],
- "fin_by_pub": [
-  {
-   "label": "LancasterOnline (LNP)",
-   "cells": [
-    "$1,709,044",
-    "$12,318,950",
-    "−$87,321",
-    "−$1,238,399"
-   ],
-   "neg": [
-    2,
-    3
-   ]
-  },
-  {
-   "label": "Ephrata Review",
-   "cells": [
-    "$22,530",
-    "$242,714",
-    "−$11,632",
-    "−$52,414"
-   ],
-   "neg": [
-    2,
-    3
-   ]
-  },
-  {
-   "label": "Lititz Record",
-   "cells": [
-    "$28,499",
-    "$243,741",
-    "−$7,700",
-    "−$65,867"
-   ],
-   "neg": [
-    2,
-    3
-   ]
-  },
-  {
-   "label": "Consolidated (pre-grants)",
-   "cells": [
-    "$1,760,073",
-    "$12,805,405",
-    "−$106,653",
-    "−$1,356,680"
-   ],
-   "neg": [
-    2,
-    3
-   ],
-   "total": true
-  }
- ],
- "fin_revmix": [
-  {
-   "label": "Print advertising",
-   "cells": [
-    "$612,560",
-    "$3,952,368"
-   ],
-   "delta": {
-    "t": "−12.1%",
-    "d": "down"
-   }
-  },
-  {
-   "label": "Digital advertising",
-   "cells": [
-    "$111,391",
-    "$759,759"
-   ],
-   "delta": {
-    "t": "−20.8%",
-    "d": "down"
-   }
-  },
-  {
-   "label": "Print circulation",
-   "cells": [
-    "$801,162",
-    "$6,288,393"
-   ],
-   "delta": {
-    "t": "−10.7%",
-    "d": "down"
-   }
-  },
-  {
-   "label": "Digital circulation",
-   "cells": [
-    "$182,115",
-    "$1,289,309"
-   ],
-   "delta": {
-    "t": "+17.3%",
-    "d": "up"
-   }
-  },
-  {
-   "label": "Other",
-   "cells": [
-    "$1,816",
-    "$29,121"
-   ],
-   "delta": {
-    "t": "−76.1%",
-    "d": "down"
-   }
-  },
-  {
-   "label": "Total revenue",
-   "cells": [
-    "$1,709,044",
-    "$12,318,950"
-   ],
-   "delta": {
-    "t": "−10.2%",
-    "d": "down"
-   },
-   "total": true
-  }
- ],
- "fin_note": "<b>With vs. without philanthropy:</b> stripped of grants, August's consolidated operating result (EBITDA) is a <b>loss of $106,653</b> — a miss versus the roughly breakeven forecast (+$803), and about even with a year ago (−$100,435). But YTD the EBITDA loss of <b>$1.36M still beats forecast by $724K</b> and has <b>narrowed ~48% YoY</b> (from −$2.63M). August philanthropy was light — $55,589 vs July's $851K, a grant-timing swing — so adjusted net income was a small <b>−$51,064 for the month</b> yet remains <b>+$1,106,369 YTD</b>. Revenue of $1.76M came in −1.1% to forecast and −9.1% YoY; expenses of $1.87M ran $88K over forecast, driven by the unbudgeted Best of magazine, IT ($42K over, incl. $20K Blue Engine) and printing ($26K over). *Adjusted net income excludes future pledges, grant-covered start-up costs, interest income, and depreciation.",
- "fin_revmix_note": "<b>The one growing line:</b> digital circulation revenue is <i>up</i> 17.3% YTD (and +29.6% in August) — every print line and digital advertising are down double digits YoY. Digital subscriptions remain the only organic revenue engine that is growing.",
- "audience_rows": [
-  {
-   "label": "Sessions (visits)",
-   "wk": "283,522",
-   "pywk": "386,945",
-   "wd": {
-    "t": "−26.7%",
-    "d": "down"
-   },
-   "ytd": "12,637,592",
-   "pyytd": "14,941,182",
-   "yd": {
-    "t": "−15.4%",
-    "d": "down"
-   }
-  },
-  {
-   "label": "Unique visitors (users)",
-   "wk": "169,551",
-   "pywk": "250,312",
-   "wd": {
-    "t": "−32.3%",
-    "d": "down"
-   },
-   "ytd": "5,930,820",
-   "pyytd": "6,642,936",
-   "yd": {
-    "t": "−10.7%",
-    "d": "down"
-   }
-  },
-  {
-   "label": "New visitors",
-   "wk": "107,109",
-   "pywk": "152,181",
-   "wd": {
-    "t": "−29.6%",
-    "d": "down"
-   },
-   "ytd": "5,251,212",
-   "pyytd": "6,013,069",
-   "yd": {
-    "t": "−12.7%",
-    "d": "down"
-   }
-  },
-  {
-   "label": "Repeat visitors (returning)",
-   "wk": "50,452",
-   "pywk": "78,212",
-   "wd": {
-    "t": "−35.5%",
-    "d": "down"
-   },
-   "ytd": "973,515",
-   "pyytd": "1,127,267",
-   "yd": {
-    "t": "−13.6%",
-    "d": "down"
-   }
-  },
-  {
-   "label": "Repeat visits (returning sessions)",
-   "wk": "151,882",
-   "pywk": "190,193",
-   "wd": {
-    "t": "−20.1%",
-    "d": "down"
-   },
-   "ytd": "6,277,942",
-   "pyytd": "7,254,063",
-   "yd": {
-    "t": "−13.5%",
-    "d": "down"
-   }
-  },
-  {
-   "label": "Repeat-visit share",
-   "wk": "53.6%",
-   "pywk": "49.2%",
-   "wd": {
-    "t": "+4.4 pts",
-    "d": "up"
-   },
-   "ytd": "49.7%",
-   "pyytd": "48.6%",
-   "yd": {
-    "t": "+1.1 pts",
-    "d": "up"
-   }
-  },
-  {
-   "label": "Page views",
-   "wk": "478,194",
-   "pywk": "578,182",
-   "wd": {
-    "t": "−17.3%",
-    "d": "down"
-   },
-   "ytd": "18,358,072",
-   "pyytd": "22,453,047",
-   "yd": {
-    "t": "−18.2%",
-    "d": "down"
-   }
-  },
-  {
-   "label": "Pages / session",
-   "wk": "1.69",
-   "pywk": "1.49",
-   "wd": {
-    "t": "+12.9%",
-    "d": "up"
-   },
-   "ytd": "1.45",
-   "pyytd": "1.50",
-   "yd": {
-    "t": "−3.3%",
-    "d": "down"
-   }
-  },
-  {
-   "label": "Engaged sessions",
-   "wk": "188,900",
-   "pywk": "293,937",
-   "wd": {
-    "t": "−35.7%",
-    "d": "down"
-   },
-   "ytd": "8,649,992",
-   "pyytd": "11,171,816",
-   "yd": {
-    "t": "−22.6%",
-    "d": "down"
-   }
-  },
-  {
-   "label": "Engagement rate",
-   "wk": "66.6%",
-   "pywk": "76.0%",
-   "wd": {
-    "t": "−9.3 pts",
-    "d": "down"
-   },
-   "ytd": "68.4%",
-   "pyytd": "74.8%",
-   "yd": {
-    "t": "−6.3 pts",
-    "d": "down"
-   }
-  },
-  {
-   "label": "Avg. session duration",
-   "wk": "2:35",
-   "pywk": "2:41",
-   "wd": {
-    "t": "−3.5%",
-    "d": "down"
-   },
-   "ytd": "2:22",
-   "pyytd": "2:50",
-   "yd": {
-    "t": "−16.3%",
-    "d": "down"
-   }
-  }
- ],
- "audience_note": "<b>Bright spot:</b> repeat-visit share is <i>up</i> YoY (53.6% vs 49.2%) &mdash; the loyal core is holding even as total traffic is down sharply. New-visitor and engagement metrics show the steepest declines, consistent with a broader audience contraction rather than a loyalty problem.",
- "channels": [
-  {
-   "name": "Organic Search",
-   "wk": "125,131 &middot; 41.9%",
-   "ytd": "5,086,042 &middot; 40.1%"
-  },
-  {
-   "name": "Direct",
-   "wk": "77,894 &middot; 26.1%",
-   "ytd": "3,467,749 &middot; 27.4%"
-  },
-  {
-   "name": "Organic Social",
-   "wk": "20,334 &middot; 6.8%",
-   "ytd": "1,151,571 &middot; 9.1%"
-  },
-  {
-   "name": "Referral",
-   "wk": "14,641 &middot; 4.9%",
-   "ytd": "466,714 &middot; 3.7%"
-  },
-  {
-   "name": "Email / Newsletter",
-   "wk": "7,767 &middot; 2.6%",
-   "ytd": "431,343 &middot; 3.4%"
-  },
-  {
-   "name": "Unassigned (untagged)",
-   "wk": "48,618 &middot; 16.3%",
-   "ytd": "2,039,978 &middot; 16.1%"
-  },
-  {
-   "name": "Other (paid, push, cross-network)",
-   "wk": "~4,332 &middot; 1.5%",
-   "ytd": "~26,489 &middot; 0.2%"
-  }
- ],
- "channels_note": "<b>Watch:</b> Email/newsletter drives ~2&ndash;3% of sessions (the top-of-funnel capture gap); \"Unassigned\" is ~16% of traffic, a UTM/tagging-hygiene gap that weakens attribution.",
- "subs_rows": [
-  {
-   "label": "Active subscriptions <span style='font-weight:400;color:#888'>(all access types)</span>",
-   "c0": "46,604",
-   "c1": "45,547",
-   "d1": {
-    "t": "+2.3%",
-    "d": "up"
-   },
-   "note": "Point-in-time snapshot (46,685 as of Aug 20)"
-  },
-  {
-   "sub": true,
-   "label": "&#8627;&nbsp; Print (LNP Print Access) &mdash; 69%",
-   "c0": "32,224",
-   "note": "Actual, per Piano Subscription Report (as of Aug 20, 2026). Very sticky &mdash; 0.25% monthly churn."
-  },
-  {
-   "sub": true,
-   "label": "&#8627;&nbsp; Digital (all digital terms) &mdash; 31%",
-   "c0": "14,461",
-   "note": "~14,058 paid + 403 comp/staff &middot; All Access 8,022 &middot; intro/other 5,362 &middot; Sports Pass 674"
-  },
-  {
-   "label": "New subscriptions <span style='font-weight:400;color:#888'>(excl. upgrades)</span>",
-   "c0": "504",
-   "c1": "1,058",
-   "d1": {
-    "t": "−52.4%",
-    "d": "down"
-   },
-   "c3": "3,455",
-   "c4": "7,504",
-   "d5": {
-    "t": "−54.0%",
-    "d": "down"
-   }
-  },
-  {
-   "label": "Lost subscriptions <span style='font-weight:400;color:#888'>(churn)</span>",
-   "c0": "477",
-   "c1": "515",
-   "d1": {
-    "t": "−7.4%",
-    "d": "up"
-   },
-   "c3": "3,415",
-   "c4": "3,900",
-   "d5": {
-    "t": "−12.4%",
-    "d": "up"
-   }
-  },
-  {
-   "label": "Net adds <span style='font-weight:400;color:#888'>(new &minus; lost)</span>",
-   "c0": "+27",
-   "c1": "+543",
-   "d1": {
-    "t": "−95.0%",
-    "d": "down"
-   },
-   "c3": "+40",
-   "c4": "+3,604",
-   "d5": {
-    "t": "−98.9%",
-    "d": "down"
-   }
-  },
-  {
-   "label": "Subs billing revenue",
-   "c0": "$142,262",
-   "c1": "$136,431",
-   "d1": {
-    "t": "+4.3%",
-    "d": "up"
-   },
-   "c3": "$1,009,795",
-   "c4": "$969,092",
-   "d5": {
-    "t": "+4.2%",
-    "d": "up"
-   }
-  }
- ],
- "subs_note": "<b>Print/digital split is now ACTUAL</b> (Piano Subscription Report term export), replacing the earlier estimate &mdash; which it validated almost exactly (est. 32,295 / 14,309). Of ~46.7K active subs, <b>69% (32,224) are print</b> and <b>31% (14,461) are digital</b> (~14,058 paid). <b>The problem to solve:</b> new subscriptions roughly halved YoY (504 vs 1,058 in July), collapsing net adds &mdash; acquisition, not retention, is the gap (print churn is only 0.25%/mo). Note the dedicated <b>Sports Pass (674)</b>, consistent with sports being the strongest per-view converter.",
- "still_to_wire": "<b>Print circulation (avg paid copies)</b> &mdash; from Newzware / monthly circulation files (financials give circ revenue $, not copy counts). &nbsp;&bull;&nbsp; <b>ARR per digital subscriber</b> &mdash; digital-paid count now known (~14,058); pair with annualized digital circ revenue (~$120&ndash;150/sub). &nbsp;&bull;&nbsp; <b>Engaged email subscribers &amp; engaged&rarr;paid conversion</b> &mdash; from the ESP / newsletter platform."
+  "fin_consolidated": [
+    {
+      "group": "Operating (before philanthropy)"
+    },
+    {
+      "label": "Total operating revenue",
+      "cells": [
+        "$1,760,073",
+        "$1,779,559",
+        "$1,935,528",
+        "$12,805,405",
+        "$13,410,274",
+        "$14,287,135"
+      ]
+    },
+    {
+      "label": "Total expenses",
+      "cells": [
+        "$1,866,726",
+        "$1,778,756",
+        "$2,035,963",
+        "$14,162,085",
+        "$15,490,754",
+        "$16,914,102"
+      ]
+    },
+    {
+      "label": "EBITDA <span style='font-weight:400;color:#888'>(ex-grants)</span>",
+      "cells": [
+        "−$106,653",
+        "$803",
+        "−$100,435",
+        "−$1,356,680",
+        "−$2,080,480",
+        "−$2,626,967"
+      ],
+      "neg": [
+        0,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "group": "With philanthropy"
+    },
+    {
+      "label": "Philanthropy (grants)",
+      "cells": [
+        "$55,589",
+        "&mdash;",
+        "&mdash;",
+        "$2,463,049",
+        "$2,500,600",
+        "&mdash;"
+      ],
+      "flat": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "label": "Adjusted net income*",
+      "cells": [
+        "−$51,064",
+        "$803",
+        "&mdash;",
+        "$1,106,369",
+        "$420,120",
+        "&mdash;"
+      ],
+      "neg": [
+        0
+      ],
+      "pos": [
+        3,
+        4
+      ],
+      "flat": [
+        2,
+        5
+      ]
+    }
+  ],
+  "fin_by_pub": [
+    {
+      "label": "LancasterOnline (LNP)",
+      "cells": [
+        "$1,709,044",
+        "$12,318,950",
+        "−$87,321",
+        "−$1,238,399"
+      ],
+      "neg": [
+        2,
+        3
+      ]
+    },
+    {
+      "label": "Ephrata Review",
+      "cells": [
+        "$22,530",
+        "$242,714",
+        "−$11,632",
+        "−$52,414"
+      ],
+      "neg": [
+        2,
+        3
+      ]
+    },
+    {
+      "label": "Lititz Record",
+      "cells": [
+        "$28,499",
+        "$243,741",
+        "−$7,700",
+        "−$65,867"
+      ],
+      "neg": [
+        2,
+        3
+      ]
+    },
+    {
+      "label": "Consolidated (pre-grants)",
+      "cells": [
+        "$1,760,073",
+        "$12,805,405",
+        "−$106,653",
+        "−$1,356,680"
+      ],
+      "neg": [
+        2,
+        3
+      ],
+      "total": true
+    }
+  ],
+  "fin_revmix": [
+    {
+      "label": "Print advertising",
+      "cells": [
+        "$612,560",
+        "$3,952,368"
+      ],
+      "delta": {
+        "t": "−12.1%",
+        "d": "down"
+      }
+    },
+    {
+      "label": "Digital advertising",
+      "cells": [
+        "$111,391",
+        "$759,759"
+      ],
+      "delta": {
+        "t": "−20.8%",
+        "d": "down"
+      }
+    },
+    {
+      "label": "Print circulation",
+      "cells": [
+        "$801,162",
+        "$6,288,393"
+      ],
+      "delta": {
+        "t": "−10.7%",
+        "d": "down"
+      }
+    },
+    {
+      "label": "Digital circulation",
+      "cells": [
+        "$182,115",
+        "$1,289,309"
+      ],
+      "delta": {
+        "t": "+17.3%",
+        "d": "up"
+      }
+    },
+    {
+      "label": "Other",
+      "cells": [
+        "$1,816",
+        "$29,121"
+      ],
+      "delta": {
+        "t": "−76.1%",
+        "d": "down"
+      }
+    },
+    {
+      "label": "Total revenue",
+      "cells": [
+        "$1,709,044",
+        "$12,318,950"
+      ],
+      "delta": {
+        "t": "−10.2%",
+        "d": "down"
+      },
+      "total": true
+    }
+  ],
+  "fin_note": "<b>With vs. without philanthropy:</b> stripped of grants, August's consolidated operating result (EBITDA) is a <b>loss of $106,653</b> — a miss versus the roughly breakeven forecast (+$803), and about even with a year ago (−$100,435). But YTD the EBITDA loss of <b>$1.36M still beats forecast by $724K</b> and has <b>narrowed ~48% YoY</b> (from −$2.63M). August philanthropy was light — $55,589 vs July's $851K, a grant-timing swing — so adjusted net income was a small <b>−$51,064 for the month</b> yet remains <b>+$1,106,369 YTD</b>. Revenue of $1.76M came in −1.1% to forecast and −9.1% YoY; expenses of $1.87M ran $88K over forecast, driven by the unbudgeted Best of magazine, IT ($42K over, incl. $20K Blue Engine) and printing ($26K over). *Adjusted net income excludes future pledges, grant-covered start-up costs, interest income, and depreciation.",
+  "fin_revmix_note": "<b>The one growing line:</b> digital circulation revenue is <i>up</i> 17.3% YTD (and +29.6% in August) — every print line and digital advertising are down double digits YoY. Digital subscriptions remain the only organic revenue engine that is growing.",
+  "audience_rows": [
+    {
+      "label": "Sessions (visits)",
+      "wk": "283,522",
+      "pywk": "386,945",
+      "wd": {
+        "t": "−26.7%",
+        "d": "down"
+      },
+      "ytd": "12,637,592",
+      "pyytd": "14,941,182",
+      "yd": {
+        "t": "−15.4%",
+        "d": "down"
+      }
+    },
+    {
+      "label": "Unique visitors (users)",
+      "wk": "169,551",
+      "pywk": "250,312",
+      "wd": {
+        "t": "−32.3%",
+        "d": "down"
+      },
+      "ytd": "5,930,820",
+      "pyytd": "6,642,936",
+      "yd": {
+        "t": "−10.7%",
+        "d": "down"
+      }
+    },
+    {
+      "label": "New visitors",
+      "wk": "107,109",
+      "pywk": "152,181",
+      "wd": {
+        "t": "−29.6%",
+        "d": "down"
+      },
+      "ytd": "5,251,212",
+      "pyytd": "6,013,069",
+      "yd": {
+        "t": "−12.7%",
+        "d": "down"
+      }
+    },
+    {
+      "label": "Repeat visitors (returning)",
+      "wk": "50,452",
+      "pywk": "78,212",
+      "wd": {
+        "t": "−35.5%",
+        "d": "down"
+      },
+      "ytd": "973,515",
+      "pyytd": "1,127,267",
+      "yd": {
+        "t": "−13.6%",
+        "d": "down"
+      }
+    },
+    {
+      "label": "Repeat visits (returning sessions)",
+      "wk": "151,882",
+      "pywk": "190,193",
+      "wd": {
+        "t": "−20.1%",
+        "d": "down"
+      },
+      "ytd": "6,277,942",
+      "pyytd": "7,254,063",
+      "yd": {
+        "t": "−13.5%",
+        "d": "down"
+      }
+    },
+    {
+      "label": "Repeat-visit share",
+      "wk": "53.6%",
+      "pywk": "49.2%",
+      "wd": {
+        "t": "+4.4 pts",
+        "d": "up"
+      },
+      "ytd": "49.7%",
+      "pyytd": "48.6%",
+      "yd": {
+        "t": "+1.1 pts",
+        "d": "up"
+      }
+    },
+    {
+      "label": "Page views",
+      "wk": "478,194",
+      "pywk": "578,182",
+      "wd": {
+        "t": "−17.3%",
+        "d": "down"
+      },
+      "ytd": "18,358,072",
+      "pyytd": "22,453,047",
+      "yd": {
+        "t": "−18.2%",
+        "d": "down"
+      }
+    },
+    {
+      "label": "Pages / session",
+      "wk": "1.69",
+      "pywk": "1.49",
+      "wd": {
+        "t": "+12.9%",
+        "d": "up"
+      },
+      "ytd": "1.45",
+      "pyytd": "1.50",
+      "yd": {
+        "t": "−3.3%",
+        "d": "down"
+      }
+    },
+    {
+      "label": "Engaged sessions",
+      "wk": "188,900",
+      "pywk": "293,937",
+      "wd": {
+        "t": "−35.7%",
+        "d": "down"
+      },
+      "ytd": "8,649,992",
+      "pyytd": "11,171,816",
+      "yd": {
+        "t": "−22.6%",
+        "d": "down"
+      }
+    },
+    {
+      "label": "Engagement rate",
+      "wk": "66.6%",
+      "pywk": "76.0%",
+      "wd": {
+        "t": "−9.3 pts",
+        "d": "down"
+      },
+      "ytd": "68.4%",
+      "pyytd": "74.8%",
+      "yd": {
+        "t": "−6.3 pts",
+        "d": "down"
+      }
+    },
+    {
+      "label": "Avg. session duration",
+      "wk": "2:35",
+      "pywk": "2:41",
+      "wd": {
+        "t": "−3.5%",
+        "d": "down"
+      },
+      "ytd": "2:22",
+      "pyytd": "2:50",
+      "yd": {
+        "t": "−16.3%",
+        "d": "down"
+      }
+    }
+  ],
+  "audience_note": "<b>Bright spot:</b> repeat-visit share is <i>up</i> YoY (53.6% vs 49.2%) &mdash; the loyal core is holding even as total traffic is down sharply. New-visitor and engagement metrics show the steepest declines, consistent with a broader audience contraction rather than a loyalty problem.",
+  "channels": [
+    {
+      "name": "Organic Search",
+      "wk": "125,131 &middot; 41.9%",
+      "ytd": "5,086,042 &middot; 40.1%"
+    },
+    {
+      "name": "Direct",
+      "wk": "77,894 &middot; 26.1%",
+      "ytd": "3,467,749 &middot; 27.4%"
+    },
+    {
+      "name": "Organic Social",
+      "wk": "20,334 &middot; 6.8%",
+      "ytd": "1,151,571 &middot; 9.1%"
+    },
+    {
+      "name": "Referral",
+      "wk": "14,641 &middot; 4.9%",
+      "ytd": "466,714 &middot; 3.7%"
+    },
+    {
+      "name": "Email / Newsletter",
+      "wk": "7,767 &middot; 2.6%",
+      "ytd": "431,343 &middot; 3.4%"
+    },
+    {
+      "name": "Unassigned (untagged)",
+      "wk": "48,618 &middot; 16.3%",
+      "ytd": "2,039,978 &middot; 16.1%"
+    },
+    {
+      "name": "Other (paid, push, cross-network)",
+      "wk": "~4,332 &middot; 1.5%",
+      "ytd": "~26,489 &middot; 0.2%"
+    }
+  ],
+  "channels_note": "<b>Watch:</b> Email/newsletter drives ~2&ndash;3% of sessions (the top-of-funnel capture gap); \"Unassigned\" is ~16% of traffic, a UTM/tagging-hygiene gap that weakens attribution.",
+  "subs_rows": [
+    {
+      "label": "Active subscriptions <span style='font-weight:400;color:#888'>(all access types)</span>",
+      "val": "46,738",
+      "detail": "Point-in-time, per the Aug 1–31 by-term report"
+    },
+    {
+      "sub": true,
+      "label": "&#8627;&nbsp; Print (LNP Print Access)",
+      "val": "32,216 &middot; 68.9%",
+      "detail": "Very sticky &mdash; ~0.25%/mo churn"
+    },
+    {
+      "sub": true,
+      "label": "&#8627;&nbsp; Digital (all digital terms)",
+      "val": "14,522 &middot; 31.1%",
+      "detail": "~14,116 paid + 406 comp/staff &middot; All Access 7,985 &middot; intro/promo 5,438 &middot; Sports Pass 693"
+    },
+    {
+      "label": "New subscriptions <span style='font-weight:400;color:#888'>(Aug, excl. upgrades)</span>",
+      "val": "691",
+      "detail": "Rebounded from 504 in July (+37%); incl. 358 new trials"
+    },
+    {
+      "label": "Lost / churned <span style='font-weight:400;color:#888'>(Aug)</span>",
+      "val": "569",
+      "detail": "vs 477 in July"
+    },
+    {
+      "label": "Net adds <span style='font-weight:400;color:#888'>(new &minus; lost)</span>",
+      "val": "+122",
+      "detail": "Up from +27 in July &mdash; acquisition slump easing"
+    },
+    {
+      "label": "Renewal revenue <span style='font-weight:400;color:#888'>(Aug)</span>",
+      "val": "$126,681",
+      "detail": "Renewals only (8,204 payments); $600 refunded"
+    }
+  ],
+  "subs_note": "<b>Print/digital split refreshed to the August by-term Subscription Report.</b> Of <b>46,738</b> active subs, <b>68.9% (32,216) are print</b> and <b>31.1% (14,522) digital</b> (~14,116 paid). <b>Encouraging shift:</b> new subscriptions rebounded to <b>691</b> in August (from 504 in July) and net adds climbed to <b>+122</b> (from +27) &mdash; the acquisition slump that had halved new subs YoY is easing. Print stays extremely sticky (~0.25%/mo churn); the dedicated <b>Sports Pass holds 693</b>. Year-over-year and YTD subscription trends aren't in the single-month by-term export &mdash; those will populate from the Piano API.",
+  "still_to_wire": "<b>Print circulation (avg paid copies)</b> &mdash; from Newzware / monthly circulation files (financials give circ revenue $, not copy counts). &nbsp;&bull;&nbsp; <b>ARR per digital subscriber</b> &mdash; digital-paid count now known (~14,116); pair with annualized digital circ revenue (~$120&ndash;150/sub). &nbsp;&bull;&nbsp; <b>Engaged email subscribers &amp; engaged&rarr;paid conversion</b> &mdash; from the ESP / newsletter platform."
 }
