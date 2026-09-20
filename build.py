@@ -73,15 +73,15 @@ out.append('<header class="top"><h1>Living Data Dashboard</h1>')
 out.append('<div class="sub">LNP&nbsp;|&nbsp;LancasterOnline / Always Lancaster &mdash; financial health, audience &amp; subscriptions</div>')
 out.append('<div class="meta">')
 out.append('<span><b>Generated:</b> %s</span>' % M["generated"])
-out.append('<span><b>Financials:</b> July 2026 report &mdash; Actual / Forecast / Prior Yr</span>')
+out.append('<span><b>Financials:</b> ' + M["fin_report_label"] + ' report &mdash; Actual / Forecast / Prior Yr</span>')
 out.append('<span><b>Audience:</b> GA4 (317546010) &mdash; %s</span>' % M["audience_week"])
 out.append('<span><b>Subscriptions:</b> Piano Analytics + Subscription Report</span>')
 out.append('</div></header>')
 
 # Financials consolidated
-out.append('<h2>Financials &mdash; LNP | Always Lancaster (consolidated) <span class="src">Jul 2026 Financials</span></h2>')
+out.append('<h2>Financials &mdash; LNP | Always Lancaster (consolidated) <span class="src">' + M["fin_mo"] + ' Financials</span></h2>')
 out.append('<table><thead><tr><th>Metric</th>'
-           '<th>Actual<small>Jul 2026</small></th><th>Forecast<small>Jul 2026</small></th><th>Prior yr<small>Jul 2025</small></th>'
+           '<th>Actual<small>' + M["fin_mo"] + '</small></th><th>Forecast<small>' + M["fin_mo"] + '</small></th><th>Prior yr<small>' + M["fin_mo_py"] + '</small></th>'
            '<th>Actual<small>YTD 2026</small></th><th>Forecast<small>YTD 2026</small></th><th>Prior yr<small>YTD 2025</small></th></tr></thead><tbody>')
 for row in D["fin_consolidated"]:
     if "group" in row:
@@ -96,7 +96,7 @@ out.append('<div class="note">%s</div>' % D["fin_note"])
 
 # By publication
 out.append('<div class="cap">By publication (Actual)</div>')
-out.append('<table><thead><tr><th>Publication</th><th>Revenue<small>Jul</small></th><th>Revenue<small>YTD</small></th><th>Net income<small>Jul</small></th><th>Net income<small>YTD</small></th></tr></thead><tbody>')
+out.append('<table><thead><tr><th>Publication</th><th>Revenue<small>' + M["fin_mo_short"] + '</small></th><th>Revenue<small>YTD</small></th><th>Net income<small>' + M["fin_mo_short"] + '</small></th><th>Net income<small>YTD</small></th></tr></thead><tbody>')
 for row in D["fin_by_pub"]:
     tr = ' class="totrow"' if row.get("total") else ''
     out.append('<tr%s><td class="metric">%s</td>' % (tr, row["label"]))
@@ -107,7 +107,7 @@ out.append('</tbody></table>')
 
 # Revenue mix
 out.append('<div class="cap">Revenue mix &mdash; LancasterOnline (print vs digital)</div>')
-out.append('<table><thead><tr><th>Revenue line</th><th>Actual<small>Jul 2026</small></th><th>Actual<small>YTD 2026</small></th><th>YTD YoY</th></tr></thead><tbody>')
+out.append('<table><thead><tr><th>Revenue line</th><th>Actual<small>' + M["fin_mo"] + '</small></th><th>Actual<small>YTD 2026</small></th><th>YTD YoY</th></tr></thead><tbody>')
 for row in D["fin_revmix"]:
     tr = ' class="totrow"' if row.get("total") else ''
     out.append('<tr%s><td class="metric">%s</td><td>%s</td><td>%s</td><td class="delta %s">%s</td></tr>'
@@ -163,7 +163,7 @@ out.append('<div class="note" style="font-size:13px">%s</div>' % D["still_to_wir
 
 # Footer
 out.append('<footer>')
-out.append('<div><span class="pill">Sources</span> Financials: July 2026 report (LNP | Always Lancaster consolidated). Audience: GA4 property 317546010. Subscriptions: Piano Analytics + Subscription Report term export (as of %s).</div>' % M["subs_asof"])
+out.append('<div><span class="pill">Sources</span> Financials: ' + M["fin_report_label"] + ' report (LNP | Always Lancaster consolidated). Audience: GA4 property 317546010. Subscriptions: Piano Analytics + Subscription Report term export (as of %s).</div>' % M["subs_asof"])
 out.append('<div style="margin-top:6px"><span class="pill">Cadence</span> Audience weekly; subscriptions &amp; financials monthly.</div>')
 out.append('<div style="margin-top:6px"><span class="pill">Auto</span> Rendered from data.json by the LNP Living Dashboard refresh routine.</div>')
 out.append('</footer>')
