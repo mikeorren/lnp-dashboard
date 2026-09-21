@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated": "Sun Sep 20, 2026, 2:15 PM ET",
+    "generated": "Mon Sep 21, 2026, 6:04 AM ET",
     "audience_stale": false,
-    "audience_week": "Sep 7–13, 2026",
-    "audience_week_py": "Sep 8–14, 2025",
-    "audience_ytd": "Jan 1–Sep 13, 2026",
-    "audience_ytd_py": "Jan 1–Sep 14, 2025",
-    "audience_src": "Google Analytics 4 &middot; wk of Sep 7–13",
+    "audience_week": "Sep 14–20, 2026",
+    "audience_week_py": "Sep 14–20, 2025",
+    "audience_ytd": "Jan 1–Sep 20, 2026",
+    "audience_ytd_py": "Jan 1–Sep 20, 2025",
+    "audience_src": "Google Analytics 4 &middot; wk of Sep 14–20",
     "subs_asof": "Aug 31, 2026",
-    "audience_refreshed": "Sep 14, 2026",
+    "audience_refreshed": "Sep 21, 2026",
     "fin_report_label": "August 2026",
     "fin_mo": "Aug 2026",
     "fin_mo_py": "Aug 2025",
@@ -230,14 +230,14 @@
   "audience_rows": [
     {
       "label": "Sessions (visits)",
-      "wk": "283,522",
-      "pywk": "386,945",
+      "wk": "305,026",
+      "pywk": "416,562",
       "wd": {
-        "t": "−26.7%",
+        "t": "−26.8%",
         "d": "down"
       },
-      "ytd": "12,637,592",
-      "pyytd": "14,941,182",
+      "ytd": "12,919,714",
+      "pyytd": "15,274,792",
       "yd": {
         "t": "−15.4%",
         "d": "down"
@@ -245,194 +245,194 @@
     },
     {
       "label": "Unique visitors (users)",
-      "wk": "169,551",
-      "pywk": "250,312",
+      "wk": "171,021",
+      "pywk": "280,174",
       "wd": {
-        "t": "−32.3%",
+        "t": "−39.0%",
         "d": "down"
       },
-      "ytd": "5,930,820",
-      "pyytd": "6,642,936",
+      "ytd": "6,072,832",
+      "pyytd": "6,837,578",
       "yd": {
-        "t": "−10.7%",
+        "t": "−11.2%",
         "d": "down"
       }
     },
     {
       "label": "New visitors",
-      "wk": "107,109",
-      "pywk": "152,181",
+      "wk": "109,475",
+      "pywk": "184,162",
       "wd": {
-        "t": "−29.6%",
+        "t": "−40.6%",
         "d": "down"
       },
-      "ytd": "5,251,212",
-      "pyytd": "6,013,069",
+      "ytd": "5,358,661",
+      "pyytd": "6,176,533",
       "yd": {
-        "t": "−12.7%",
+        "t": "−13.2%",
         "d": "down"
       }
     },
     {
       "label": "Repeat visitors (returning)",
-      "wk": "50,452",
-      "pywk": "78,212",
+      "wk": "50,224",
+      "pywk": "80,589",
       "wd": {
-        "t": "−35.5%",
+        "t": "−37.7%",
         "d": "down"
       },
-      "ytd": "973,515",
-      "pyytd": "1,127,267",
+      "ytd": "989,316",
+      "pyytd": "1,152,682",
       "yd": {
-        "t": "−13.6%",
+        "t": "−14.2%",
         "d": "down"
       }
     },
     {
       "label": "Repeat visits (returning sessions)",
-      "wk": "151,882",
-      "pywk": "190,193",
+      "wk": "168,631",
+      "pywk": "186,918",
       "wd": {
-        "t": "−20.1%",
+        "t": "−9.8%",
         "d": "down"
       },
-      "ytd": "6,277,942",
-      "pyytd": "7,254,063",
+      "ytd": "6,462,237",
+      "pyytd": "7,429,033",
       "yd": {
-        "t": "−13.5%",
+        "t": "−13.0%",
         "d": "down"
       }
     },
     {
       "label": "Repeat-visit share",
-      "wk": "53.6%",
-      "pywk": "49.2%",
+      "wk": "55.3%",
+      "pywk": "44.9%",
       "wd": {
-        "t": "+4.4 pts",
+        "t": "+10.4 pts",
         "d": "up"
       },
-      "ytd": "49.7%",
+      "ytd": "50.0%",
       "pyytd": "48.6%",
       "yd": {
-        "t": "+1.1 pts",
+        "t": "+1.4 pts",
         "d": "up"
       }
     },
     {
       "label": "Page views",
-      "wk": "478,194",
-      "pywk": "578,182",
+      "wk": "535,877",
+      "pywk": "585,875",
       "wd": {
-        "t": "−17.3%",
+        "t": "−8.5%",
         "d": "down"
       },
-      "ytd": "18,358,072",
-      "pyytd": "22,453,047",
+      "ytd": "18,855,125",
+      "pyytd": "22,967,452",
       "yd": {
-        "t": "−18.2%",
+        "t": "−17.9%",
         "d": "down"
       }
     },
     {
       "label": "Pages / session",
-      "wk": "1.69",
-      "pywk": "1.49",
+      "wk": "1.76",
+      "pywk": "1.41",
       "wd": {
-        "t": "+12.9%",
+        "t": "+24.9%",
         "d": "up"
       },
-      "ytd": "1.45",
+      "ytd": "1.46",
       "pyytd": "1.50",
       "yd": {
-        "t": "−3.3%",
+        "t": "−3.0%",
         "d": "down"
       }
     },
     {
       "label": "Engaged sessions",
-      "wk": "188,900",
-      "pywk": "293,937",
+      "wk": "213,051",
+      "pywk": "306,334",
       "wd": {
-        "t": "−35.7%",
+        "t": "−30.4%",
         "d": "down"
       },
-      "ytd": "8,649,992",
-      "pyytd": "11,171,816",
+      "ytd": "8,868,360",
+      "pyytd": "11,478,964",
       "yd": {
-        "t": "−22.6%",
+        "t": "−22.8%",
         "d": "down"
       }
     },
     {
       "label": "Engagement rate",
-      "wk": "66.6%",
-      "pywk": "76.0%",
+      "wk": "69.8%",
+      "pywk": "73.5%",
       "wd": {
-        "t": "−9.3 pts",
+        "t": "−3.7 pts",
         "d": "down"
       },
-      "ytd": "68.4%",
-      "pyytd": "74.8%",
+      "ytd": "68.6%",
+      "pyytd": "75.1%",
       "yd": {
-        "t": "−6.3 pts",
+        "t": "−6.5 pts",
         "d": "down"
       }
     },
     {
       "label": "Avg. session duration",
-      "wk": "2:35",
-      "pywk": "2:41",
+      "wk": "2:26",
+      "pywk": "2:28",
       "wd": {
-        "t": "−3.5%",
+        "t": "−1.5%",
         "d": "down"
       },
       "ytd": "2:22",
       "pyytd": "2:50",
       "yd": {
-        "t": "−16.3%",
+        "t": "−16.2%",
         "d": "down"
       }
     }
   ],
-  "audience_note": "<b>Bright spot:</b> repeat-visit share is <i>up</i> YoY (53.6% vs 49.2%) &mdash; the loyal core is holding even as total traffic is down sharply. New-visitor and engagement metrics show the steepest declines, consistent with a broader audience contraction rather than a loyalty problem.",
+  "audience_note": "<b>Bright spot:</b> repeat-visit share is <i>up</i> YoY (55.3% vs 44.9%) &mdash; the loyal core is holding even as total traffic is down sharply. New-visitor and engagement metrics show the steepest declines, consistent with a broader audience contraction rather than a loyalty problem.",
   "channels": [
     {
       "name": "Organic Search",
-      "wk": "125,131 &middot; 41.9%",
-      "ytd": "5,086,042 &middot; 40.1%"
+      "wk": "132,109 &middot; 39.9%",
+      "ytd": "5,189,980 &middot; 40.1%"
     },
     {
       "name": "Direct",
-      "wk": "77,894 &middot; 26.1%",
-      "ytd": "3,467,749 &middot; 27.4%"
+      "wk": "82,291 &middot; 24.9%",
+      "ytd": "3,540,893 &middot; 27.3%"
     },
     {
       "name": "Organic Social",
-      "wk": "20,334 &middot; 6.8%",
-      "ytd": "1,151,571 &middot; 9.1%"
+      "wk": "21,630 &middot; 6.5%",
+      "ytd": "1,174,143 &middot; 9.1%"
     },
     {
       "name": "Referral",
-      "wk": "14,641 &middot; 4.9%",
-      "ytd": "466,714 &middot; 3.7%"
+      "wk": "16,893 &middot; 5.1%",
+      "ytd": "481,668 &middot; 3.7%"
     },
     {
       "name": "Email / Newsletter",
-      "wk": "7,767 &middot; 2.6%",
-      "ytd": "431,343 &middot; 3.4%"
+      "wk": "7,682 &middot; 2.3%",
+      "ytd": "438,278 &middot; 3.4%"
     },
     {
       "name": "Unassigned (untagged)",
-      "wk": "48,618 &middot; 16.3%",
-      "ytd": "2,039,978 &middot; 16.1%"
+      "wk": "65,970 &middot; 19.9%",
+      "ytd": "2,096,004 &middot; 16.2%"
     },
     {
       "name": "Other (paid, push, cross-network)",
-      "wk": "~4,332 &middot; 1.5%",
-      "ytd": "~26,489 &middot; 0.2%"
+      "wk": "~4,547 &middot; 1.4%",
+      "ytd": "~27,432 &middot; 0.2%"
     }
   ],
-  "channels_note": "<b>Watch:</b> Email/newsletter drives ~2&ndash;3% of sessions (the top-of-funnel capture gap); \"Unassigned\" is ~16% of traffic, a UTM/tagging-hygiene gap that weakens attribution.",
+  "channels_note": "<b>Watch:</b> Email/newsletter drives ~2&ndash;3% of sessions (the top-of-funnel capture gap); \"Unassigned\" is ~16&ndash;20% of traffic, a UTM/tagging-hygiene gap that weakens attribution.",
   "subs_rows": [
     {
       "label": "Active subscriptions <span style='font-weight:400;color:#888'>(all access types)</span>",
