@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generated": "Mon Oct 19, 2026, 11:05 AM ET",
+  "generated": "Mon Oct 26, 2026, 6:04 AM ET",
   "audience_stale": false,
-  "audience_week": "Oct 12–18, 2026",
-  "audience_week_py": "Oct 13–19, 2025",
-  "audience_ytd": "Jan 1–Oct 18, 2026",
-  "audience_ytd_py": "Jan 1–Oct 19, 2025",
-  "audience_src": "Google Analytics 4 &middot; wk of Oct 12–18",
+  "audience_week": "Oct 19\u201325, 2026",
+  "audience_week_py": "Oct 20\u201326, 2025",
+  "audience_ytd": "Jan 1\u2013Oct 25, 2026",
+  "audience_ytd_py": "Jan 1\u2013Oct 25, 2025",
+  "audience_src": "Google Analytics 4 &middot; wk of Oct 19\u201325",
   "subs_asof": "Aug 31, 2026",
-  "audience_refreshed": "Oct 19, 2026",
+  "audience_refreshed": "Oct 26, 2026",
   "fin_report_label": "September 2026",
   "fin_mo": "Sep 2026",
   "fin_mo_py": "Sep 2025",
@@ -44,12 +44,12 @@
   {
    "label": "EBITDA <span style='font-weight:400;color:#888'>(ex-grants)</span>",
    "cells": [
-    "−$439,510",
-    "−$440,652",
-    "−$584,362",
-    "−$1,765,362",
-    "−$2,514,583",
-    "−$3,211,329"
+    "\u2212$439,510",
+    "\u2212$440,652",
+    "\u2212$584,362",
+    "\u2212$1,765,362",
+    "\u2212$2,514,583",
+    "\u2212$3,211,329"
    ],
    "neg": [
     0,
@@ -81,11 +81,11 @@
   {
    "label": "Adjusted net income*",
    "cells": [
-    "−$422,487",
-    "−$307,716",
+    "\u2212$422,487",
+    "\u2212$307,716",
     "&mdash;",
     "$714,883",
-    "−$13,983",
+    "\u2212$13,983",
     "&mdash;"
    ],
    "neg": [
@@ -108,8 +108,8 @@
    "cells": [
     "$1,335,573",
     "$13,654,523",
-    "−$426,357",
-    "−$1,633,929"
+    "\u2212$426,357",
+    "\u2212$1,633,929"
    ],
    "neg": [
     2,
@@ -121,8 +121,8 @@
    "cells": [
     "$33,787",
     "$276,501",
-    "−$4,846",
-    "−$57,259"
+    "\u2212$4,846",
+    "\u2212$57,259"
    ],
    "neg": [
     2,
@@ -134,8 +134,8 @@
    "cells": [
     "$28,579",
     "$272,320",
-    "−$8,307",
-    "−$74,174"
+    "\u2212$8,307",
+    "\u2212$74,174"
    ],
    "neg": [
     2,
@@ -147,8 +147,8 @@
    "cells": [
     "$1,397,939",
     "$14,203,344",
-    "−$439,510",
-    "−$1,765,362"
+    "\u2212$439,510",
+    "\u2212$1,765,362"
    ],
    "neg": [
     2,
@@ -165,7 +165,7 @@
     "$4,383,135"
    ],
    "delta": {
-    "t": "−12.0%",
+    "t": "\u221212.0%",
     "d": "down"
    }
   },
@@ -176,7 +176,7 @@
     "$854,410"
    ],
    "delta": {
-    "t": "−21.8%",
+    "t": "\u221221.8%",
     "d": "down"
    }
   },
@@ -187,7 +187,7 @@
     "$6,949,527"
    ],
    "delta": {
-    "t": "−11.5%",
+    "t": "\u221211.5%",
     "d": "down"
    }
   },
@@ -209,7 +209,7 @@
     "$30,725"
    ],
    "delta": {
-    "t": "−75.7%",
+    "t": "\u221275.7%",
     "d": "down"
    }
   },
@@ -220,225 +220,225 @@
     "$13,654,523"
    ],
    "delta": {
-    "t": "−10.7%",
+    "t": "\u221210.7%",
     "d": "down"
    },
    "total": true
   }
  ],
- "fin_note": "<b>With vs. without philanthropy:</b> stripped of grants, September's consolidated operating result (EBITDA) was a <b>loss of $439,510</b> &mdash; right on forecast (−$440,652) and about $145K better than a year ago (−$584,362). YTD, the EBITDA loss of <b>$1.77M beats forecast by $749K</b> and has <b>narrowed ~45% YoY</b> (from −$3.21M). Philanthropy was light in September ($17K vs. $133K forecast, grant timing), so adjusted net income was <b>−$422,487 for the month</b> and <b>+$714,883 YTD</b>. Revenue of $1.40M came in $116K under forecast, almost entirely print circulation (−$123K); advertising beat forecast by $11K. Expenses of $1.84M ran <b>$118K under forecast</b> (advertising −$77K, distribution −$40K, finance/admin −$28K), partly offset by IT ($26K over, on staffing and Newzware migration costs). *Adjusted net income excludes future pledges, grant-covered start-up costs, interest income, and depreciation.",
+ "fin_note": "<b>With vs. without philanthropy:</b> stripped of grants, September's consolidated operating result (EBITDA) was a <b>loss of $439,510</b> &mdash; right on forecast (\u2212$440,652) and about $145K better than a year ago (\u2212$584,362). YTD, the EBITDA loss of <b>$1.77M beats forecast by $749K</b> and has <b>narrowed ~45% YoY</b> (from \u2212$3.21M). Philanthropy was light in September ($17K vs. $133K forecast, grant timing), so adjusted net income was <b>\u2212$422,487 for the month</b> and <b>+$714,883 YTD</b>. Revenue of $1.40M came in $116K under forecast, almost entirely print circulation (\u2212$123K); advertising beat forecast by $11K. Expenses of $1.84M ran <b>$118K under forecast</b> (advertising \u2212$77K, distribution \u2212$40K, finance/admin \u2212$28K), partly offset by IT ($26K over, on staffing and Newzware migration costs). *Adjusted net income excludes future pledges, grant-covered start-up costs, interest income, and depreciation.",
  "fin_revmix_note": "<b>The one growing line:</b> digital circulation revenue is <i>up</i> 16.1% YTD (and +5.3% in September) &mdash; every print line and digital advertising are down double digits YoY. Digital subscriptions remain the only organic revenue engine that is growing.",
  "audience_rows": [
   {
    "label": "Sessions (visits)",
-   "wk": "269,854",
-   "pywk": "405,441",
+   "wk": "307,778",
+   "pywk": "408,984",
    "wd": {
-    "t": "−33.4%",
+    "t": "\u221224.7%",
     "d": "down"
    },
-   "ytd": "14,200,750",
-   "pyytd": "16,695,659",
+   "ytd": "14,589,673",
+   "pyytd": "17,102,144",
    "yd": {
-    "t": "−14.9%",
+    "t": "\u221214.7%",
     "d": "down"
    }
   },
   {
    "label": "Unique visitors (users)",
-   "wk": "159,735",
-   "pywk": "256,786",
+   "wk": "181,482",
+   "pywk": "262,382",
    "wd": {
-    "t": "−37.8%",
+    "t": "\u221230.8%",
     "d": "down"
    },
-   "ytd": "6,658,618",
-   "pyytd": "7,510,752",
+   "ytd": "6,803,095",
+   "pyytd": "7,652,490",
    "yd": {
-    "t": "−11.3%",
+    "t": "\u221211.1%",
     "d": "down"
    }
   },
   {
    "label": "New visitors",
-   "wk": "102,773",
-   "pywk": "156,084",
+   "wk": "119,448",
+   "pywk": "167,455",
    "wd": {
-    "t": "−34.2%",
+    "t": "\u221228.7%",
     "d": "down"
    },
-   "ytd": "5,893,206",
-   "pyytd": "6,789,725",
+   "ytd": "6,018,548",
+   "pyytd": "6,931,692",
    "yd": {
-    "t": "−13.2%",
+    "t": "\u221213.2%",
     "d": "down"
    }
   },
   {
    "label": "Repeat visitors (returning)",
-   "wk": "47,299",
-   "pywk": "81,479",
+   "wk": "49,785",
+   "pywk": "78,602",
    "wd": {
-    "t": "−41.9%",
+    "t": "\u221236.7%",
     "d": "down"
    },
-   "ytd": "1,048,138",
-   "pyytd": "1,265,804",
+   "ytd": "1,063,062",
+   "pyytd": "1,288,998",
    "yd": {
-    "t": "−17.2%",
+    "t": "\u221217.5%",
     "d": "down"
    }
   },
   {
    "label": "Repeat visits (returning sessions)",
-   "wk": "136,263",
-   "pywk": "189,925",
+   "wk": "156,849",
+   "pywk": "188,008",
    "wd": {
-    "t": "−28.3%",
+    "t": "\u221216.6%",
     "d": "down"
    },
-   "ytd": "7,052,015",
-   "pyytd": "8,188,069",
+   "ytd": "7,255,950",
+   "pyytd": "8,391,637",
    "yd": {
-    "t": "−13.9%",
+    "t": "\u221213.5%",
     "d": "down"
    }
   },
   {
    "label": "Repeat-visit share",
-   "wk": "50.5%",
-   "pywk": "46.8%",
+   "wk": "51.0%",
+   "pywk": "46.0%",
    "wd": {
-    "t": "+3.7 pts",
+    "t": "+5.0 pts",
     "d": "up"
    },
    "ytd": "49.7%",
-   "pyytd": "49.0%",
+   "pyytd": "49.1%",
    "yd": {
-    "t": "+0.6 pts",
+    "t": "+0.7 pts",
     "d": "up"
    }
   },
   {
    "label": "Page views",
-   "wk": "440,058",
-   "pywk": "570,449",
+   "wk": "497,991",
+   "pywk": "550,955",
    "wd": {
-    "t": "−22.9%",
+    "t": "\u22129.6%",
     "d": "down"
    },
-   "ytd": "20,773,357",
-   "pyytd": "25,235,826",
+   "ytd": "21,298,241",
+   "pyytd": "25,707,285",
    "yd": {
-    "t": "−17.7%",
+    "t": "\u221217.2%",
     "d": "down"
    }
   },
   {
    "label": "Pages / session",
-   "wk": "1.63",
-   "pywk": "1.41",
+   "wk": "1.62",
+   "pywk": "1.35",
    "wd": {
-    "t": "+15.9%",
+    "t": "+20.1%",
     "d": "up"
    },
    "ytd": "1.46",
-   "pyytd": "1.51",
+   "pyytd": "1.50",
    "yd": {
-    "t": "−3.2%",
+    "t": "\u22122.9%",
     "d": "down"
    }
   },
   {
    "label": "Engaged sessions",
-   "wk": "193,674",
-   "pywk": "292,917",
+   "wk": "212,914",
+   "pywk": "287,297",
    "wd": {
-    "t": "−33.9%",
+    "t": "\u221225.9%",
     "d": "down"
    },
-   "ytd": "9,920,889",
-   "pyytd": "12,577,639",
+   "ytd": "10,221,382",
+   "pyytd": "12,851,691",
    "yd": {
-    "t": "−21.1%",
+    "t": "\u221220.5%",
     "d": "down"
    }
   },
   {
    "label": "Engagement rate",
-   "wk": "71.8%",
-   "pywk": "72.2%",
+   "wk": "69.2%",
+   "pywk": "70.2%",
    "wd": {
-    "t": "−0.5 pts",
+    "t": "\u22121.1 pts",
     "d": "down"
    },
-   "ytd": "69.9%",
-   "pyytd": "75.3%",
+   "ytd": "70.1%",
+   "pyytd": "75.1%",
    "yd": {
-    "t": "−5.5 pts",
+    "t": "\u22125.1 pts",
     "d": "down"
    }
   },
   {
    "label": "Avg. session duration",
-   "wk": "2:20",
-   "pywk": "2:28",
+   "wk": "2:26",
+   "pywk": "2:21",
    "wd": {
-    "t": "−5.2%",
-    "d": "down"
+    "t": "+3.1%",
+    "d": "up"
    },
-   "ytd": "2:21",
-   "pyytd": "2:50",
+   "ytd": "2:20",
+   "pyytd": "2:49",
    "yd": {
-    "t": "−17.1%",
+    "t": "\u221216.9%",
     "d": "down"
    }
   }
  ],
- "audience_note": "<b>Broad pullback vs. a strong comparable week:</b> sessions, users, and engaged sessions were all down 30&ndash;40% YoY this week (sessions −33.4%, users −37.8%, engaged sessions −33.9%) against last October's much higher baseline. Pages/session actually improved (<b>1.63</b>, +15.9% YoY) as repeat-visit share held up better than new-visitor traffic (new visitors −34.2% vs. repeat visits −28.3%), pushing the repeat-visit share to <b>50.5%</b> from 46.8% a year ago. YTD the softness is more moderate but still broad-based: sessions −14.9%, engagement rate down 5.5 pts, and session duration down 17.1% YoY, while repeat-visit share YTD still edges out last year (49.7% vs 49.0%).",
+ "audience_note": "<b>Steep pullback vs. a much stronger comparable week:</b> sessions, users, and engaged sessions were all down roughly a quarter to a third YoY this week (sessions \u221224.7%, users \u221230.8%, engaged sessions \u221225.9%) against last October's higher baseline. Pages/session improved to <b>1.62</b> (+20.1% YoY) as repeat-visit share held up much better than new-visitor traffic (new visitors \u221228.7% vs. repeat visits \u221216.6%), pushing the repeat-visit share to <b>51.0%</b> from 46.0% a year ago. YTD the softness is more moderate but still broad-based: sessions \u221214.7%, engagement rate down 5.1 pts, and session duration down 16.9% YoY, while repeat-visit share YTD still edges out last year (49.7% vs 49.1%).",
  "channels": [
   {
    "name": "Organic Search",
-   "wk": "112,166 &middot; 41.5%",
-   "ytd": "5,645,496 &middot; 39.8%"
+   "wk": "130,977 &middot; 40.0%",
+   "ytd": "5,817,108 &middot; 39.9%"
   },
   {
    "name": "Direct",
-   "wk": "73,810 &middot; 27.3%",
-   "ytd": "3,926,843 &middot; 27.7%"
+   "wk": "87,359 &middot; 26.7%",
+   "ytd": "4,029,043 &middot; 27.6%"
   },
   {
    "name": "Organic Social",
-   "wk": "18,376 &middot; 6.8%",
-   "ytd": "1,258,381 &middot; 8.9%"
+   "wk": "23,520 &middot; 7.2%",
+   "ytd": "1,284,291 &middot; 8.8%"
   },
   {
    "name": "Referral",
-   "wk": "11,991 &middot; 4.4%",
-   "ytd": "522,204 &middot; 3.7%"
+   "wk": "16,473 &middot; 5.0%",
+   "ytd": "534,799 &middot; 3.7%"
   },
   {
    "name": "Email / Newsletter",
-   "wk": "6,450 &middot; 2.4%",
-   "ytd": "466,141 &middot; 3.3%"
+   "wk": "9,966 &middot; 3.0%",
+   "ytd": "474,927 &middot; 3.3%"
   },
   {
    "name": "Unassigned (untagged)",
-   "wk": "46,355 &middot; 17.2%",
-   "ytd": "2,342,301 &middot; 16.5%"
+   "wk": "55,733 &middot; 17.0%",
+   "ytd": "2,412,040 &middot; 16.5%"
   },
   {
    "name": "Other (paid, push, cross-network)",
-   "wk": "1,014 &middot; 0.4%",
-   "ytd": "30,828 &middot; 0.2%"
+   "wk": "3,115 &middot; 1.0%",
+   "ytd": "33,905 &middot; 0.2%"
   }
  ],
- "channels_note": "<b>Watch:</b> Email/newsletter drives ~2&ndash;3% of sessions (the top-of-funnel capture gap); \"Unassigned\" is ~17&ndash;25% of traffic, a UTM/tagging-hygiene gap that weakens attribution.",
+ "channels_note": "<b>Watch:</b> Email/newsletter drives ~3% of sessions (the top-of-funnel capture gap); \"Unassigned\" is ~17% of weekly traffic and ~16\u201317% YTD, a UTM/tagging-hygiene gap that weakens attribution.",
  "subs_rows": [
   {
    "label": "Active subscriptions <span style='font-weight:400;color:#888'>(all access types)</span>",
    "val": "46,738",
-   "detail": "Point-in-time, per the Aug 1–31 by-term report"
+   "detail": "Point-in-time, per the Aug 1\u201331 by-term report"
   },
   {
    "sub": true,
