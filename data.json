@@ -1,14 +1,14 @@
 {
  "meta": {
-  "generated": "Mon Nov 2, 2026, 6:04 AM ET",
+  "generated": "Mon Nov 9, 2026, 6:02 AM ET",
   "audience_stale": false,
-  "audience_week": "Oct 26–Nov 1, 2026",
-  "audience_week_py": "Oct 27–Nov 2, 2025",
-  "audience_ytd": "Jan 1–Nov 1, 2026",
-  "audience_ytd_py": "Jan 1–Nov 2, 2025",
-  "audience_src": "Google Analytics 4 &middot; wk of Oct 26–Nov 1",
+  "audience_week": "Nov 2–8, 2026",
+  "audience_week_py": "Nov 3–9, 2025",
+  "audience_ytd": "Jan 1–Nov 8, 2026",
+  "audience_ytd_py": "Jan 1–Nov 9, 2025",
+  "audience_src": "Google Analytics 4 &middot; wk of Nov 2–8",
   "subs_asof": "Aug 31, 2026",
-  "audience_refreshed": "Nov 2, 2026",
+  "audience_refreshed": "Nov 9, 2026",
   "fin_report_label": "September 2026",
   "fin_mo": "Sep 2026",
   "fin_mo_py": "Sep 2025",
@@ -231,14 +231,14 @@
  "audience_rows": [
   {
    "label": "Sessions (visits)",
-   "wk": "308,744",
-   "pywk": "430,757",
+   "wk": "326,779",
+   "pywk": "396,949",
    "wd": {
-    "t": "−28.3%",
+    "t": "−17.7%",
     "d": "down"
    },
-   "ytd": "14,936,460",
-   "pyytd": "17,400,751",
+   "ytd": "15,225,059",
+   "pyytd": "17,752,865",
    "yd": {
     "t": "−14.2%",
     "d": "down"
@@ -246,74 +246,74 @@
   },
   {
    "label": "Unique visitors (users)",
-   "wk": "182,693",
-   "pywk": "284,453",
+   "wk": "190,518",
+   "pywk": "261,449",
    "wd": {
-    "t": "−35.8%",
+    "t": "−27.1%",
     "d": "down"
    },
-   "ytd": "6,926,127",
-   "pyytd": "7,876,976",
+   "ytd": "7,063,661",
+   "pyytd": "8,027,021",
    "yd": {
-    "t": "−12.1%",
+    "t": "−12.0%",
     "d": "down"
    }
   },
   {
    "label": "New visitors",
-   "wk": "121,331",
-   "pywk": "177,337",
+   "wk": "120,640",
+   "pywk": "156,590",
    "wd": {
-    "t": "−31.6%",
+    "t": "−23.0%",
     "d": "down"
    },
-   "ytd": "6,138,072",
-   "pyytd": "7,134,517",
+   "ytd": "6,256,848",
+   "pyytd": "7,291,107",
    "yd": {
-    "t": "−14.0%",
+    "t": "−14.2%",
     "d": "down"
    }
   },
   {
    "label": "Repeat visitors (returning)",
-   "wk": "50,720",
-   "pywk": "81,735",
+   "wk": "54,717",
+   "pywk": "83,064",
    "wd": {
-    "t": "−37.9%",
+    "t": "−34.1%",
     "d": "down"
    },
-   "ytd": "1,077,406",
-   "pyytd": "1,324,444",
+   "ytd": "1,096,418",
+   "pyytd": "1,351,884",
    "yd": {
-    "t": "−18.7%",
+    "t": "−18.9%",
     "d": "down"
    }
   },
   {
    "label": "Repeat visits (returning sessions)",
-   "wk": "168,580",
-   "pywk": "190,504",
+   "wk": "173,016",
+   "pywk": "196,415",
    "wd": {
-    "t": "−11.5%",
+    "t": "−11.9%",
     "d": "down"
    },
-   "ytd": "7,400,217",
-   "pyytd": "8,586,000",
+   "ytd": "7,561,785",
+   "pyytd": "8,781,030",
    "yd": {
-    "t": "−13.8%",
+    "t": "−13.9%",
     "d": "down"
    }
   },
   {
    "label": "Repeat-visit share",
-   "wk": "54.6%",
-   "pywk": "44.2%",
+   "wk": "52.9%",
+   "pywk": "49.5%",
    "wd": {
-    "t": "+10.4 pts",
+    "t": "+3.5 pts",
     "d": "up"
    },
-   "ytd": "49.5%",
-   "pyytd": "49.3%",
+   "ytd": "49.7%",
+   "pyytd": "49.5%",
    "yd": {
     "t": "+0.2 pts",
     "d": "up"
@@ -321,71 +321,71 @@
   },
   {
    "label": "Page views",
-   "wk": "504,048",
-   "pywk": "590,055",
+   "wk": "499,484",
+   "pywk": "580,282",
    "wd": {
-    "t": "−14.6%",
+    "t": "−13.9%",
     "d": "down"
    },
-   "ytd": "21,753,409",
-   "pyytd": "26,376,836",
+   "ytd": "22,203,124",
+   "pyytd": "26,957,118",
    "yd": {
-    "t": "−17.5%",
+    "t": "−17.6%",
     "d": "down"
    }
   },
   {
    "label": "Pages / session",
-   "wk": "1.63",
-   "pywk": "1.37",
+   "wk": "1.53",
+   "pywk": "1.46",
    "wd": {
-    "t": "+19.2%",
+    "t": "+4.6%",
     "d": "up"
    },
    "ytd": "1.46",
    "pyytd": "1.52",
    "yd": {
-    "t": "−3.9%",
+    "t": "−4.0%",
     "d": "down"
    }
   },
   {
    "label": "Engaged sessions",
-   "wk": "206,465",
-   "pywk": "306,060",
+   "wk": "214,623",
+   "pywk": "291,719",
    "wd": {
-    "t": "−32.5%",
+    "t": "−26.4%",
     "d": "down"
    },
-   "ytd": "10,444,043",
-   "pyytd": "13,093,549",
+   "ytd": "10,670,085",
+   "pyytd": "13,361,534",
    "yd": {
-    "t": "−20.2%",
+    "t": "−20.1%",
     "d": "down"
    }
   },
   {
    "label": "Engagement rate",
-   "wk": "66.9%",
-   "pywk": "71.1%",
+   "wk": "65.7%",
+   "pywk": "73.5%",
    "wd": {
-    "t": "−4.2 pts",
+    "t": "−7.8 pts",
     "d": "down"
    },
-   "ytd": "69.9%",
-   "pyytd": "75.2%",
+   "ytd": "70.1%",
+   "pyytd": "75.3%",
    "yd": {
-    "t": "−5.3 pts",
+    "t": "−5.2 pts",
     "d": "down"
    }
   },
   {
    "label": "Avg. session duration",
-   "wk": "2:32",
-   "pywk": "2:19",
+   "wk": "2:19",
+   "pywk": "2:33",
    "wd": {
-    "t": "+9.1%",
-    "d": "up"
+    "t": "−8.8%",
+    "d": "down"
    },
    "ytd": "2:20",
    "pyytd": "2:50",
@@ -395,45 +395,45 @@
    }
   }
  ],
- "audience_note": "<b>Sharper pullback vs. a much stronger comparable week:</b> sessions, users, and engaged sessions were all down roughly a quarter to over a third YoY this week (sessions −28.3%, users −35.8%, engaged sessions −32.5%) against last year's higher baseline. Pages/session improved to <b>1.63</b> (+19.2% YoY) as repeat-visit share held up far better than new-visitor traffic (new visitors −31.6% vs. repeat visits −11.5%), pushing the repeat-visit share to <b>54.6%</b> from 44.2% a year ago. YTD the softness is more moderate but still broad-based: sessions −14.2%, engagement rate down 5.3 pts, and session duration down 17.6% YoY, while repeat-visit share YTD still edges out last year (49.5% vs 49.3%).",
+ "audience_note": "<b>Broad pullback vs. a much stronger comparable week:</b> sessions, users, and engaged sessions were all down roughly a quarter to a third YoY this week (sessions −17.7%, users −27.1%, engaged sessions −26.4%) against last year's higher baseline. Pages/session improved to <b>1.53</b> (+4.6% YoY) as repeat-visit share held up better than new-visitor traffic (new visitors −23.0% vs. repeat visits −11.9%), pushing the repeat-visit share to <b>52.9%</b> from 49.5% a year ago. YTD the softness is broad-based too: sessions −14.2%, engagement rate down 5.2 pts, and session duration down 17.6% YoY, while repeat-visit share YTD still edges out last year (49.7% vs 49.5%).",
  "channels": [
   {
    "name": "Organic Search",
-   "wk": "136,603 &middot; 40.6%",
-   "ytd": "5,916,005 &middot; 39.7%"
+   "wk": "147,699 &middot; 44.9%",
+   "ytd": "6,049,004 &middot; 39.9%"
   },
   {
    "name": "Direct",
-   "wk": "90,749 &middot; 27.0%",
-   "ytd": "4,173,008 &middot; 28.0%"
+   "wk": "82,964 &middot; 25.2%",
+   "ytd": "4,237,292 &middot; 27.9%"
   },
   {
    "name": "Organic Social",
-   "wk": "24,093 &middot; 7.2%",
-   "ytd": "1,303,829 &middot; 8.7%"
+   "wk": "23,158 &middot; 7.0%",
+   "ytd": "1,315,382 &middot; 8.7%"
   },
   {
    "name": "Referral",
-   "wk": "18,795 &middot; 5.6%",
-   "ytd": "552,569 &middot; 3.7%"
+   "wk": "17,231 &middot; 5.2%",
+   "ytd": "563,394 &middot; 3.7%"
   },
   {
    "name": "Email / Newsletter",
-   "wk": "8,140 &middot; 2.4%",
-   "ytd": "486,382 &middot; 3.3%"
+   "wk": "7,902 &middot; 2.4%",
+   "ytd": "495,079 &middot; 3.3%"
   },
   {
    "name": "Unassigned (untagged)",
-   "wk": "54,172 &middot; 16.1%",
-   "ytd": "2,437,892 &middot; 16.4%"
+   "wk": "42,525 &middot; 12.9%",
+   "ytd": "2,463,900 &middot; 16.2%"
   },
   {
    "name": "Other (paid, push, cross-network)",
-   "wk": "3,871 &middot; 1.2%",
-   "ytd": "35,058 &middot; 0.2%"
+   "wk": "7,293 &middot; 2.2%",
+   "ytd": "38,636 &middot; 0.3%"
   }
  ],
- "channels_note": "<b>Watch:</b> Email/newsletter drives ~2-3% of sessions (the top-of-funnel capture gap); \"Unassigned\" is ~16% of weekly traffic and YTD, a UTM/tagging-hygiene gap that weakens attribution.",
+ "channels_note": "<b>Watch:</b> Email/newsletter drives roughly 2-3% of sessions (the top-of-funnel capture gap); \"Unassigned\" is 12.9% of weekly traffic and 16.2% YTD, a UTM/tagging-hygiene gap that weakens attribution.",
  "subs_rows": [
   {
    "label": "Active subscriptions <span style='font-weight:400;color:#888'>(all access types)</span>",
